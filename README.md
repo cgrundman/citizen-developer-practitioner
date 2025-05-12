@@ -85,6 +85,6 @@ This toolkit enables Citizen Developer Practitioners to:
 These materials are provided as editable templates. Feel free to adapt them to your organization’s governance model and development approach. They are especially useful within environments aligned with PMI’s Citizen Developer™ Framework.
 
 ## 🛡️ License
-This repository is licensed under the Apache License 2.0. You are free to use, modify, and distribute this material for personal or internal use under the terms of that license.
+This repository is licensed under the [Apache License 2.0](https://github.com/cgrundman/citizen-developer-practitioner/blob/main/LICENSE). You are free to use, modify, and distribute this material for personal or internal use under the terms of that license.
 
-Note: Commercial use of these templates or documents requires prior written permission from PMI.org, as some materials or frameworks may incorporate PMI intellectual property or be subject to usage restrictions.
+Note: Commercial use of these templates or documents requires prior written permission from [PMI.org](pmi.org), as some materials or frameworks may incorporate PMI intellectual property or be subject to usage restrictions.
